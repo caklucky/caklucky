@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there My name is Lucky Fernanda R👋
 
 <!--
 **caklucky/caklucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left">
+<a href="https://github.com/caklucky">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=caklucky&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=caklucky&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
